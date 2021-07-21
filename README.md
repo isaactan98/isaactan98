@@ -8,9 +8,13 @@ I am Isaac Tan, currently studying Software Engineering course at UTM.
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
-- 📫 How to reach me: <a href = "https://www.linkedin.com/in/isaactanyuhao/">HERE</a> or <a href="mailto:tyhisaac2@graduate.utm.my">HERE</a>
+- 📫 How to reach me: <a href = "https://www.linkedin.com/in/isaactanyuhao/">HERE</a> or <a href="mailto:tyhisaac2@graduate.utm.my">tyhisaac2@graduate.utm.my</a>
 <!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: Ambicious Person and Like to Learn New Things 
 
+______________
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaactan98&layout=compact)
+
+_____________
 
