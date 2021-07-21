@@ -1,16 +1,16 @@
 ### Hi there 👋
+_____________________
 
-<!--
-**isaactan98/isaactan98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Isaac Tan, currently studying Software Engineering course at UTM.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working as a Freelancer on Photography, Web Development and ETC. 
+- 🌱 I’m currently learning different Web and Mobile Frameworks. 
+<!-- - 👯 I’m looking to collaborate on ... -->
+<!-- - 🤔 I’m looking for help with ... -->
+<!-- - 💬 Ask me about ... -->
+- 📫 How to reach me: <a href = "https://www.linkedin.com/in/isaactanyuhao/">HERE</a> 
+<!-- - 😄 Pronouns: ... -->
+- ⚡ Fun fact: Ambicious Person and Like to Learn New Things 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
