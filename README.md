@@ -1,7 +1,7 @@
 ### Hi there 👋
 _____________________
 
-I am Isaac Tan, currently studying Software Engineering course at UTM.
+I am Isaac Tan, currently studying Software Engineering course at Universiti Teknologi Malaysia.
 
 - 🔭 I’m currently working as a Freelancer on Photography, Web Development and ETC. 
 - 🌱 I’m currently learning different Web and Mobile Frameworks. 
@@ -11,7 +11,7 @@ I am Isaac Tan, currently studying Software Engineering course at UTM.
 - 📫 How to reach me: <a href = "https://www.linkedin.com/in/isaactanyuhao/">HERE</a> or <a href="mailto:tyhisaac2@graduate.utm.my">tyhisaac2@graduate.utm.my</a>
 <!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: Ambicious Person and Like to Learn New Things 
-
+- 📫 Quote: You're in the game now, may as well put forth on your best effort. 
 ______________
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaactan98&layout=compact)
