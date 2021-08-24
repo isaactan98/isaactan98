@@ -27,5 +27,6 @@ _____________
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="40" height="40" alt="firebase" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="40" height="40" alt="flutter" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" width="40" height="40" alt="firebase" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-plain.svg" width="40" height="40" alt="vuejs" />
 
 </p>
