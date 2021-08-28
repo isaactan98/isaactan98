@@ -14,7 +14,7 @@ I am <b>Isaac Tan</b>, currently studying Software Engineering course at Univers
 - 📫 Quote: You're in the game now, may as well put forth on your best effort. 
 ______________
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaactan98)](https://github.com/isaactan98/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaactan98&layout=compact)](https://github.com/isaactan98/github-readme-stats)
 
 _____________
 
