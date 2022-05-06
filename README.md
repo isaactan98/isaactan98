@@ -18,6 +18,10 @@ ______________
 
 _____________
 
+[![Contributions](https://github-readme-stats.vercel.app/api?username=isaactan98&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github-readme-stats.vercel.app/api?username=isaactan98&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+_____________
+
 <p align="left">
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" height="40" alt="h5" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40" height="40" alt="css3" />
