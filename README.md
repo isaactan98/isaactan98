@@ -39,10 +39,10 @@ _____________
 _____________
 
 <h1>Project Ideas</h1>
-[x] Invoice Management System
-[x] Restaurant Dine-In Reservation System
-[x] Video Chat App 
-[x] Malaysia Covid Statistics App
-[] E-commerce System
-[] Tow Truck Service System 
-[] Talent Service Provider System 
+- [x] Invoice Management System
+- [x] Restaurant Dine-In Reservation System
+- [x] Video Chat App 
+- [x] Malaysia Covid Statistics App
+- [ ] E-commerce System
+- [ ] Tow Truck Service System 
+- [ ] Talent Service Provider System 
