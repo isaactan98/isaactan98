@@ -44,7 +44,7 @@ _____________
 - [X] Restaurant Dine-In Reservation System
 - [X] Video Chat App 
 - [X] Malaysia Covid Statistics App
-- [ ] E-commerce System
-- [ ] Tow Truck Service System 
-- [ ] Talent Service Provider System 
 - [ ] Airbnb Clone 
+- [ ] Tow Truck Service System 
+- [ ] E-commerce System
+- [ ] Talent Service Provider System 
