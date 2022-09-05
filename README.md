@@ -4,7 +4,7 @@ _____________________
 I am <b>Isaac Tan</b>, currently studying Software Engineering course at Universiti Teknologi Malaysia.
 
 - 🔭 I’m currently working as a Freelancer on Photography, Web Development and ETC. 
-- 🌱 I’m currently learning different Web and Mobile Frameworks. 
+- 🌱 I’m currently learning different Web and Mobile Frameworks, also trying new technologies. 
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
