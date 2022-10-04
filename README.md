@@ -1,7 +1,7 @@
 ### Hi there 👋
 _____________________
 
-I am <b>Isaac Tan</b>, currently studying Software Engineering course at Universiti Teknologi Malaysia.
+I am <b>Isaac Tan</b>, a Fresh Graduate 🎓 from Universiti Teknologi Malaysia as a Software Engineer 💻.
 
 - 🔭 I’m currently working as a Freelancer on Photography, Web Development and ETC. 
 - 🌱 I’m currently learning different Web and Mobile Frameworks, also trying new technologies. 
