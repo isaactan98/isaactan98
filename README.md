@@ -5,11 +5,7 @@ I am <b>Isaac Tan</b>, a Fresh Graduate 🎓 from Universiti Teknologi Malaysia 
 
 - 🔭 I’m currently working as a Freelancer on Photography, Web Development and ETC. 
 - 🌱 I’m currently learning different Web and Mobile Frameworks, also trying new technologies. 
-<!-- - 👯 I’m looking to collaborate on ... -->
-<!-- - 🤔 I’m looking for help with ... -->
-<!-- - 💬 Ask me about ... -->
 - 📫 How to reach me: <a href = "https://www.linkedin.com/in/isaactanyuhao/">HERE</a> or <a href="mailto:iztan98@gmail.com">iztan98@gmail.com</a>
-<!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: Ambicious Person and Like to Learn New Things 
 - 📫 Quote: You're in the game now, may as well put forth on your best effort. 
 ______________
