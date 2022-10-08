@@ -3,7 +3,7 @@ _____________________
 
 I am <b>Isaac Tan</b>, a Fresh Graduate 🎓 from Universiti Teknologi Malaysia as a Software Engineer 💻.
 
-<img src="developer.gif" width="200px" height="200px" /> <br/>
+<img src="developer.gif" width="350px" /> <br/>
 
 - 🔭 I’m currently working as a Freelancer on Photography, Web Development and ETC. 
 - 🌱 I’m currently learning different Web and Mobile Frameworks, also trying new technologies. 
