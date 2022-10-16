@@ -5,11 +5,11 @@ I am <b>Isaac Tan</b>, a Fresh Graduate 🎓 from Universiti Teknologi Malaysia 
 
 <img src="developer.gif" width="350px" /> <br/>
 
-- 🔭 I’m currently working as a Freelancer on Photography, Web Development and ETC. 
+- 🔭 I’m currently working as a Freelancer on Photography, Web Development and etc. 
 - 🌱 I’m currently learning different Web and Mobile Frameworks, also trying new technologies. 
 - 📫 How to reach me: <a href = "https://www.linkedin.com/in/isaactanyuhao/">here</a> or <a href="mailto:iztan98@gmail.com">iztan98@gmail.com</a>
 - ⚡ Fun fact: Ambicious Person and Like to Learn New Things 
-- 📫 Quote: You're in the game now, may as well put forth on your best effort. 
+- 📫 Quote: "You're in the game now, may as well put forth on your best effort" - Peter Mckinnon. 
 ______________
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaactan98&layout=compact)](https://github.com/isaactan98/github-readme-stats)
