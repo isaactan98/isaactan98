@@ -1,11 +1,11 @@
 ### Hi there 👋
 _____________________
 
-I am <b>Isaac Tan</b>, a Fresh Graduate 🎓 from Universiti Teknologi Malaysia as a Software Engineer 💻.
+I am <b>Isaac Tan</b>, a Full-Time Software Engineer & a Graduate 🎓 from Universiti Teknologi Malaysia  💻.
 
 <img src="developer.gif" width="350px" /> <br/>
 
-- 🔭 I’m currently working as a Freelancer on Photography, Web Development and etc. 
+- 🔭 I’m currently working as a Full-time Software Engineer, a Freelancer for Photography, Web Development and etc. 
 - 🌱 I’m currently learning different Web and Mobile Frameworks, also trying new technologies. 
 - 📫 How to reach me: <a href = "https://www.linkedin.com/in/isaactanyuhao/">here</a> or <a href="mailto:iztan98@gmail.com">iztan98@gmail.com</a>
 - ⚡ Fun fact: Ambicious Person and Like to Learn New Things 
