@@ -1,15 +1,31 @@
-### Hi there 👋
-_____________________
+# 👋 Hi there, I'm Isaac Tan!
 
-I am <b>Isaac Tan</b>, a Full-Time Software Engineer & a Graduate 🎓 from Universiti Teknologi Malaysia  💻.
+I'm a software engineer based in Singapore, passionate about building efficient and delightful digital solutions. I enjoy working across the stack and thrive on learning new technologies.
 
-<img src="developer.gif" width="350px" /> <br/>
+## 🚀 About Me
+- 🏢 Currently working as a Software Engineer in Singapore
+- 🎓 Built a mobile app for car rental as a university project—my proudest creation so far!
+- 📸 I’m also a photography enthusiast! Check out my portfolio: [iztan98.myportfolio.com](https://iztan98.myportfolio.com/)
 
-- 🔭 I’m currently working as a Full-time Software Engineer, a Freelancer for Photography, Web Development and etc. 
-- 🌱 I’m currently learning different Web and Mobile Frameworks, also trying new technologies. 
-- 📫 How to reach me: <a href = "https://www.linkedin.com/in/isaactanyuhao/">here</a> or <a href="mailto:iztan98@gmail.com">iztan98@gmail.com</a>
-- ⚡ Fun fact: Ambicious Person and Like to Learn New Things 
-- 📫 Quote: "You're in the game now, may as well put forth on your best effort" - Peter Mckinnon. 
+## 🧰 Tech Stack & Skills
+- **Backend:** Laravel | Spring Boot | PHP | Java | Kotlin
+- **Frontend:** React | Nuxt
+- **Mobile:** Kotlin (Android)
+- Always exploring new technologies & best practices!
+
+## 💡 Favorite Project: Car Rental Mobile App
+A university project where I developed a mobile app for seamless car rental. It taught me full-stack development, UX best practices, and teamwork. If you're interested in the details, feel free to ask!
+
+## 🌐 Connect with Me
+- [Photography Portfolio](https://iztan98.myportfolio.com/)
+
+## 🤝 Let's Collaborate!
+I'm always open to new opportunities, collaborations, or a friendly chat. Whether you want to talk tech, photography, or cool project ideas—reach out!
+
+---
+
+*Thanks for stopping by! Wishing you a great day ahead.*
+
 ______________
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaactan98&layout=compact)](https://github.com/isaactan98/github-readme-stats)
