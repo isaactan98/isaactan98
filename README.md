@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Isaac Tan!
 
-I'm a software engineer based in Singapore, passionate about building efficient and delightful digital solutions. I enjoy working across the stack and thrive on learning new technologies.
+I'm a software engineer based in Malaysia, passionate about building efficient and delightful digital solutions. I enjoy working across the stack and thrive on learning new technologies.
 
 ## 🚀 About Me
 - 🏢 Currently working as a Software Engineer in Singapore
@@ -9,8 +9,8 @@ I'm a software engineer based in Singapore, passionate about building efficient 
 
 ## 🧰 Tech Stack & Skills
 - **Backend:** Laravel | Spring Boot | PHP | Java | Kotlin
-- **Frontend:** React | Nuxt
-- **Mobile:** Kotlin (Android)
+- **Frontend:** React | Nuxt (Vue) | Angular
+- **Mobile:** Flutter
 - Always exploring new technologies & best practices!
 
 ## 💡 Favorite Project: Car Rental Mobile App
